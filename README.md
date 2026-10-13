@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for tech. I am ea
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+|           | <a href="https://google.com"></a>|
+|  | <a href="https://google.com"></a>|
 \
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
