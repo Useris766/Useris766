@@ -39,5 +39,4 @@ My journey in computer science has led me to develop a passion for tech. I am ea
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 
