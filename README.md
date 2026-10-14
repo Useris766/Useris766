@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for tech. I am ea
 |  | <a href="https://google.com"></a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
