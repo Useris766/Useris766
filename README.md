@@ -7,8 +7,7 @@ I am a first year IT student.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for tech. I am eager to try new things.
-
+My journey in computer science has led me to develop a passion for tech. I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 ## Skills
 
 | Skill                                         | Associated Project         |
