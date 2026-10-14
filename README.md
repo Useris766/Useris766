@@ -10,13 +10,12 @@ I am a first year IT student.
 My journey in computer science has led me to develop a passion for tech. I am eager to try new things.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|           | <a href="https://google.com"></a>|
+| Incident Response Planning and Execution | NIST Incident Response <a href="https://google.com"></a>|
 |  | <a href="https://google.com"></a>|
-\
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -31,12 +30,14 @@ My journey in computer science has led me to develop a passion for tech. I am ea
 
 ### SIEM
 <div>
-
+Task Manager    |  NIST Incident Response
 </div>
-
+<div>
+Registry Editor |  NIST Incident Response
+</div>
 ## Certifications
 
 </div>
 
 ## Projects
-- 
+- NIST Incident Response
